@@ -1,0 +1,10 @@
+body {
+  background: silver;
+}
+.navbar {
+  background: navy;
+  border: dotted red;
+}
+.home-tab {
+  border: dotted yellow;
+}
